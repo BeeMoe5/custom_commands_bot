@@ -1,0 +1,15 @@
+548769401424314370:
+  test:
+    message:
+      text: "test test"
+      embed:
+        title: "test title"
+        color: "FF0000"
+        fields:
+          -
+            name: 'test field 1'
+            value: 'test field 1'
+
+          -
+            name: 'test field 2'
+            value: 'test field 2'
